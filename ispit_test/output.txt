@@ -1,0 +1,4 @@
+Intesa debitna 123456 2022
+UniCredit kreditna 987654 2023
+SocieteGenerale kreditna 654321 2023
+Raiffeisen debitna 456789 2024

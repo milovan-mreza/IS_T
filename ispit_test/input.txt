@@ -1,0 +1,4 @@
+﻿I Intesa debitna 123456 2022
+D UniCredit kreditna 987654 2023
+I Raiffeisen debitna 456789 2024
+D SocieteGenerale kreditna 654321 2023
